@@ -1,5 +1,5 @@
-Post Count Like Ration
-======================
+Post Count Like Ratio
+=====================
 
 Adds a ratio to mini profiles based on the post count and total likes received.
 
